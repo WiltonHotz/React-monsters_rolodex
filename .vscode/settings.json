@@ -1,0 +1,9 @@
+{
+  "editor.fontFamily": "Operator Mono Light, Menlo, Monaco, 'Courier New', monospace",
+  "editor.tabSize": 2,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "100",
+  "editor.fontSize": 13,
+  "editor.letterSpacing": 0.15,
+  "workbench.colorTheme": "Snazzy Operator"
+}
